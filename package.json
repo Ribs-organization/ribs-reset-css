@@ -1,6 +1,6 @@
 {
   "name": "ribs-reset-css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A reset css can be used in css or sass/scss",
   "main": "style.min.css",
   "style": "style.min.css",
