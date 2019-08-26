@@ -73,6 +73,7 @@ hr {
 a {
 	background-color: transparent;
 	text-decoration: none;
+	color: inherit;
 
 	&:visited, &:hover, &:focus {
 		background-color: transparent;
@@ -80,6 +81,3 @@ a {
 		text-decoration: none;
 	}
 }
-
-
-
